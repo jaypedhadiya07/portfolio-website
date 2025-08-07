@@ -48,10 +48,12 @@ const Resume: React.FC = () => {
           <p className="text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto mb-8">
             Download my resume or view my qualifications and achievements below
           </p>
-          <button className="bg-gradient-to-r from-blue-600 to-purple-600 text-white px-8 py-4 rounded-full font-medium hover:shadow-lg transform hover:scale-105 transition-all duration-300 inline-flex items-center space-x-2">
+          <a href="https://www.canva.com/design/DAGujyNB2wQ/r4fhvL_B4SHoq1a--YwsiA/view?utm_content=DAGujyNB2wQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8f54062e0a" target="_blank">
+            <button className="bg-gradient-to-r from-blue-600 to-purple-600 text-white px-8 py-4 rounded-full font-medium hover:shadow-lg transform hover:scale-105 transition-all duration-300 inline-flex items-center space-x-2">
             <Download size={20} />
             <span>Download Resume</span>
           </button>
+          </a>
         </div>
 
         <div className="grid lg:grid-cols-2 gap-12">
