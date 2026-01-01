@@ -4,12 +4,12 @@ import { ExternalLink, Github } from 'lucide-react';
 const Projects: React.FC = () => {
   const projects = [
     {
-      title: "E-Commerce Web Application",
-      description: "A full-stack e-commerce platform with user authentication, product catalog, shopping cart, and payment integration. Built with modern MERN stack architecture.",
-      techStack: ["React", "Node.js", "Express", "MongoDB", "Bootstrap"],
-      githubUrl: "https://github.com/jaypedhadiya/ecommerce-app",
-      liveUrl: "https://ecommerce-demo.netlify.app",
-      featured: true
+      title: "Personal Blog Platform",
+      description: "A full-featured blog platform with content management, user comments, and responsive design. Includes admin panel for content management.",
+      techStack: ["React", "Node.js", "MongoDB", "Bootstrap"],
+      githubUrl: "https://github.com/jaypedhadiya/blog-platform",
+      liveUrl: "https://blogifyorg.netlify.app/",
+      featured: false
     },
     {
       title: "Task Management System",
@@ -28,12 +28,12 @@ const Projects: React.FC = () => {
       featured: false
     },
     {
-      title: "Personal Blog Platform",
-      description: "A full-featured blog platform with content management, user comments, and responsive design. Includes admin panel for content management.",
-      techStack: ["React", "Node.js", "MongoDB", "Bootstrap"],
-      githubUrl: "https://github.com/jaypedhadiya/blog-platform",
-      liveUrl: "https://blogifyorg.netlify.app/",
-      featured: false
+      title: "E-Commerce Web Application",
+      description: "A full-stack e-commerce platform with user authentication, product catalog, shopping cart, and payment integration. Built with modern MERN stack architecture.",
+      techStack: ["React", "Node.js", "Express", "MongoDB", "Bootstrap"],
+      githubUrl: "https://github.com/jaypedhadiya/ecommerce-app",
+      liveUrl: "https://ecommerce-demo.netlify.app",
+      featured: true
     },
     {
       title: "Portfolio Website",
