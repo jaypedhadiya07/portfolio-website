@@ -32,7 +32,7 @@ const Projects: React.FC = () => {
       description: "A full-featured blog platform with content management, user comments, and responsive design. Includes admin panel for content management.",
       techStack: ["React", "Node.js", "MongoDB", "Bootstrap"],
       githubUrl: "https://github.com/jaypedhadiya/blog-platform",
-      liveUrl: "https://blog-platform-demo.netlify.app",
+      liveUrl: "https://blogifyorg.netlify.app/",
       featured: false
     },
     {
