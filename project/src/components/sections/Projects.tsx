@@ -7,7 +7,7 @@ const Projects: React.FC = () => {
       title: "Personal Blog Platform",
       description: "A full-featured blog platform with content management, user comments, and responsive design. Includes admin panel for content management.",
       techStack: ["React", "Node.js", "MongoDB", "Bootstrap"],
-      githubUrl: "https://github.com/jaypedhadiya/blog-platform",
+      githubUrl: "https://github.com/jaypedhadiya07/Personal-Blogging-Websites.git",
       liveUrl: "https://blogifyorg.netlify.app/",
       featured: true
     },
@@ -39,7 +39,7 @@ const Projects: React.FC = () => {
       title: "Portfolio Website",
       description: "A responsive portfolio website showcasing projects and skills with smooth animations and modern design principles.",
       techStack: ["React", "CSS3", "JavaScript"],
-      githubUrl: "https://github.com/jaypedhadiya/portfolio",
+      githubUrl: "https://github.com/jaypedhadiya07/portfolio-website.git",
       liveUrl: "https://portfolio-website-flame-seven.vercel.app/",
       featured: true
     },
