@@ -40,7 +40,7 @@ const Projects: React.FC = () => {
       description: "A responsive portfolio website showcasing projects and skills with smooth animations and modern design principles.",
       techStack: ["React", "CSS3", "JavaScript"],
       githubUrl: "https://github.com/jaypedhadiya/portfolio",
-      liveUrl: "https://jaypedhadiya.netlify.app",
+      liveUrl: "https://portfolio-website-flame-seven.vercel.app/",
       featured: true
     },
     {
