@@ -9,7 +9,7 @@ const Projects: React.FC = () => {
       techStack: ["React", "Node.js", "MongoDB", "Bootstrap"],
       githubUrl: "https://github.com/jaypedhadiya/blog-platform",
       liveUrl: "https://blogifyorg.netlify.app/",
-      featured: false
+      featured: true
     },
     {
       title: "Task Management System",
@@ -17,7 +17,7 @@ const Projects: React.FC = () => {
       techStack: ["React", "Express.js", "MongoDB", "CSS3"],
       githubUrl: "https://github.com/jaypedhadiya/task-manager",
       liveUrl: "https://task-manager-demo.netlify.app",
-      featured: true
+      featured: false
     },
     {
       title: "Weather Dashboard",
@@ -33,7 +33,7 @@ const Projects: React.FC = () => {
       techStack: ["React", "Node.js", "Express", "MongoDB", "Bootstrap"],
       githubUrl: "https://github.com/jaypedhadiya/ecommerce-app",
       liveUrl: "https://ecommerce-demo.netlify.app",
-      featured: true
+      featured: false
     },
     {
       title: "Portfolio Website",
@@ -41,7 +41,7 @@ const Projects: React.FC = () => {
       techStack: ["React", "CSS3", "JavaScript"],
       githubUrl: "https://github.com/jaypedhadiya/portfolio",
       liveUrl: "https://jaypedhadiya.netlify.app",
-      featured: false
+      featured: true
     },
     {
       title: "Recipe Finder App",
