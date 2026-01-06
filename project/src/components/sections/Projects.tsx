@@ -12,10 +12,10 @@ const Projects: React.FC = () => {
       featured: true
     },
     {
-      title: "Task Management System",
-      description: "A collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.",
-      techStack: ["React", "Express.js", "MongoDB", "CSS3"],
-      githubUrl: "https://github.com/jaypedhadiya/task-manager",
+      title: "Url Shortener",
+      description: "Developed a secure and scalable URL Shortener web application that allows users to generate short links, manage their URLs, and track click analytics. Implemented user authentication (JWT), authorization, and MongoDB integration for efficient data storage and retrieval. Designed clean RESTful APIs with error handling and middleware for robust performance.",
+      techStack: ["Node.js", "Express.js", "MongoDB", "EJS", "JWT", "BCRYPT", "MONGOOSE"],
+      githubUrl: "https://github.com/jaypedhadiya07/Url-Shortener.git",
       liveUrl: "https://task-manager-demo.netlify.app",
       featured: false
     },
@@ -24,7 +24,7 @@ const Projects: React.FC = () => {
       description: "A responsive weather application that provides real-time weather information with interactive charts and location-based forecasts.",
       techStack: ["JavaScript", "HTML5", "CSS3", "Weather API"],
       githubUrl: "https://github.com/jaypedhadiya/weather-dashboard",
-      liveUrl: "https://weather-dashboard-demo.netlify.app",
+      liveUrl: "https://github.com/jaypedhadiya07/Url-Shortener.git",
       featured: false
     },
     {
