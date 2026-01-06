@@ -17,7 +17,7 @@ const Projects: React.FC = () => {
       techStack: ["Node.js", "Express.js", "MongoDB", "EJS", "JWT", "BCRYPT", "MONGOOSE"],
       githubUrl: "https://github.com/jaypedhadiya07/Url-Shortener.git",
       liveUrl: "https://task-manager-demo.netlify.app",
-      featured: false
+      featured: true
     },
     {
       title: "Weather Dashboard",
@@ -25,7 +25,7 @@ const Projects: React.FC = () => {
       techStack: ["JavaScript", "HTML5", "CSS3", "Weather API"],
       githubUrl: "https://github.com/jaypedhadiya/weather-dashboard",
       liveUrl: "https://github.com/jaypedhadiya07/Url-Shortener.git",
-      featured: true
+      featured: false
     },
     {
       title: "E-Commerce Web Application",
