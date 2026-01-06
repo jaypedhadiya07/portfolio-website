@@ -12,11 +12,11 @@ const Projects: React.FC = () => {
       featured: true
     },
     {
-      title: "Url Shortener",
-      description: "Developed a secure and scalable URL Shortener application with link management and click analytics.Implemented JWT authentication, MongoDB integration, and RESTful APIs with robust error handling and middleware.",
-      techStack: ["Node.js", "Express.js", "MongoDB", "EJS", "JWT", "BCRYPT", "MONGOOSE"],
-      githubUrl: "https://github.com/jaypedhadiya07/Url-Shortener.git",
-      liveUrl: "https://task-manager-demo.netlify.app",
+      title: "Portfolio Website",
+      description: "A responsive portfolio website showcasing projects and skills with smooth animations and modern design principles.",
+      techStack: ["React", "CSS3", "JavaScript"],
+      githubUrl: "https://github.com/jaypedhadiya07/portfolio-website.git",
+      liveUrl: "https://portfolio-website-flame-seven.vercel.app/",
       featured: true
     },
     {
@@ -24,7 +24,7 @@ const Projects: React.FC = () => {
       description: "A responsive weather application that provides real-time weather information with interactive charts and location-based forecasts.",
       techStack: ["JavaScript", "HTML5", "CSS3", "Weather API"],
       githubUrl: "https://github.com/jaypedhadiya/weather-dashboard",
-      liveUrl: "https://github.com/jaypedhadiya07/Url-Shortener.git",
+      liveUrl: "https://weather-dashboard-demo.netlify.app",
       featured: false
     },
     {
@@ -36,11 +36,11 @@ const Projects: React.FC = () => {
       featured: false
     },
     {
-      title: "Portfolio Website",
-      description: "A responsive portfolio website showcasing projects and skills with smooth animations and modern design principles.",
-      techStack: ["React", "CSS3", "JavaScript"],
-      githubUrl: "https://github.com/jaypedhadiya07/portfolio-website.git",
-      liveUrl: "https://portfolio-website-flame-seven.vercel.app/",
+      title: "Url Shortener",
+      description: "Developed a secure and scalable URL Shortener application with link management and click analytics.Implemented JWT authentication, MongoDB integration, and RESTful APIs with robust error handling and middleware.",
+      techStack: ["Node.js", "Express.js", "MongoDB", "EJS", "JWT", "BCRYPT", "MONGOOSE"],
+      githubUrl: "https://github.com/jaypedhadiya07/Url-Shortener.git",
+      liveUrl: "https://github.com/jaypedhadiya07/Url-Shortener.git",
       featured: true
     },
     {
