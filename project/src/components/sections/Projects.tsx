@@ -13,7 +13,7 @@ const Projects: React.FC = () => {
     },
     {
       title: "Url Shortener",
-      description: "Developed a secure and scalable URL Shortener web application that allows users to generate short links, manage their URLs, and track click analytics. Implemented user authentication (JWT), authorization, and MongoDB integration for efficient data storage and retrieval. Designed clean RESTful APIs with error handling and middleware for robust performance.",
+      description: "Developed a secure and scalable URL Shortener application with link management and click analytics.Implemented JWT authentication, MongoDB integration, and RESTful APIs with robust error handling and middleware.",
       techStack: ["Node.js", "Express.js", "MongoDB", "EJS", "JWT", "BCRYPT", "MONGOOSE"],
       githubUrl: "https://github.com/jaypedhadiya07/Url-Shortener.git",
       liveUrl: "https://task-manager-demo.netlify.app",
