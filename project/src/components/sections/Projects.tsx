@@ -25,7 +25,7 @@ const Projects: React.FC = () => {
       techStack: ["JavaScript", "HTML5", "CSS3", "Weather API"],
       githubUrl: "https://github.com/jaypedhadiya/weather-dashboard",
       liveUrl: "https://github.com/jaypedhadiya07/Url-Shortener.git",
-      featured: false
+      featured: true
     },
     {
       title: "E-Commerce Web Application",
